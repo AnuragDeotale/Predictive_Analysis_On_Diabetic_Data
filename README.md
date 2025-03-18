@@ -1,5 +1,8 @@
 # Predictive Analysis on Diabetic Data
 
+This project focuses on predictive analysis using machine learning techniques to analyze diabetic data and generate insights. The goal is to develop an efficient model for identifying trends, patterns, and risk factors associated with diabetes.
+
+
 ---
 
 ## 📌 Features
