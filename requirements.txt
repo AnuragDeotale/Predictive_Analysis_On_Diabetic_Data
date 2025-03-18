@@ -1,0 +1,9 @@
+Python 3.x
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+pickle-mixin
+seaborn
+Jupyter Notebook
